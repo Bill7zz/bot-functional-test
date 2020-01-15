@@ -1,0 +1,17 @@
+{
+    "name": "functional-tests",
+    "version": "1.0.0",
+    "description": "Test that hits services",
+    "main": "",
+    "dependencies": {
+      "mocha": "^7.0.0",
+      "swagger-client": "^2.1.18"
+    },
+    "directories": {
+      "test-bot": "test-bot"
+    },
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "MIT"
+}
